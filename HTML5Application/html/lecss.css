@@ -10,7 +10,7 @@ and open the template in the editor.
 
 #bar{
     display: flex;
-    flex-direction: column;
     align-items: center;
+    flex-direction: column;
     width: 100%;
 }
