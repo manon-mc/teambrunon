@@ -61,14 +61,13 @@ q::after{
     text-decoration-color: #a30f36;
     color: #a30f36;
 }
-.text6{ /*CUISINE ET FORMULE REPAS */
-    font-size: 25px;
-    text-decoration: underline;
-    text-decoration-color: black;
+.text3{ /*CUISINE ET FORMULE REPAS */
+    font-size: 18px;
+    
 }
-.text7{ /* la cuisine: */
-    font-size: 20px;
-    color: #a30f36; 
+.text4{ /* la cuisine: */
+    font-size: 28px;
+    color: darkred; 
 }
 .text10{ /*les formules repas : */
     font-size: 20px;
@@ -83,47 +82,7 @@ q::after{
     font-size: 40px;
     color: #a30f36;
 }
-.text20{ /* CHAMBRES */
-    font-size: 25px;
-    text-decoration: underline;
-    text-decoration-color: black;
-}
-.text23{ /* SALLE DE BAIN */
-    font-size: 25px;
-    text-decoration: underline;
-    text-decoration-color: black;
-}
-.text25{ /* LE CAVEAU */
-    font-size: 40px;
-    color: #a30f36;
-}
-.text26{ /* Salle de recption */
-    font-size: 25px;
-    text-decoration: underline;
-    text-decoration-color: black;
-}
-.text29{ /* CONDITIONS HEBERG */
-    font-size: 25px;
-    color: #a30f36;
-}
-.text30{ /*horaire */
-    font-size: 20px;
-    text-decoration: underline;
-    text-decoration-color: black;
-}
-.text31{ /* - Le gîte d'étape: */
-    font-size: 20px;
-    color: #a30f36;
-}
-.text33{ /* - gîte de groupe */
-    font-size: 20px;
-    color: #a30f36;
-}
-.text35{ /* tarif */
-    font-size: 20px;
-    text-decoration: underline;
-    text-decoration-color: black;
-}
+
 
 #theme{
     display: flex;
