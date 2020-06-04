@@ -44,22 +44,26 @@ em {
   text-decoration-color: black;
   color: black;
   font-size: 45px;
+  text-shadow: 15px 15px 10px;
 }
 q::after{  
   content: "*";
 }
+
 .text { /*notre gîte est... */
     font-size: 25px;
 }
 .text2 { /*rez de chaussee */
     font-size: 20px;
     color: #a30f36;
+   
 }
 .text1{ /*l'espace de vie */
     font-size: 35px;
     text-decoration: underline;
     text-decoration-color: #a30f36;
     color: #a30f36;
+    
 }
 .text3{ /*CUISINE ET FORMULE REPAS */
     font-size: 18px;
@@ -150,9 +154,9 @@ q::after{
 footer {
   background-color: #555;
   color: white;
-  padding: 15px;
+  padding: 30px;
+  text-align:center
 }
-
 
 @media screen and (max-width: 767px) {
   .sidenav {
