@@ -1,4 +1,18 @@
-section {     
-    width: 916px; /* Les sections occupent 916px (taille de la bannière) */ 
+.center-div {     
+    text-align: center
+}
+
+.marge{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    align-content: center;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+border-color: #2e6da4;
 }
 
